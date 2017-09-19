@@ -1,7 +1,7 @@
 # caffe-siamft
 A Python + Caffe implementation of a face tracker based on Siamese Networks and CNN
 
-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
 
 This project is inspired by the following works:
 
@@ -9,3 +9,10 @@ This project is inspired by the following works:
 
 [2] SINT: Ran Tao, Efstratios Gavves, Arnold W.M. Smeulders. "Siamese Instance Search for Tracking." CVPR (2016)
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+[Tracking only]
+
+[1] Caffe: Please Git Clone Caffe from the offical repository and follow the installation guide.
+
+[2] 
